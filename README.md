@@ -28,10 +28,11 @@
 
 ---
 
-Задание 2. Memcached
-Установите и запустите memcached.
+## Задание 2. Memcached
 
-*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
+Установите и запустите `memcached`.
+
+*Приведите скриншот `systemctl status memcached`, где будет видно, что `memcached` запущен.*
 
 ### Ответ
 
